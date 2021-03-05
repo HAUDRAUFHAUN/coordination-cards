@@ -1,6 +1,14 @@
 <script>
-  import { metatags } from "@roxi/routify";
+  import { metatags, layout, components } from "@roxi/routify";
   import Card from "@/components/Card.svelte";
+
+  let excerciseFolder = $components.find(
+    ({ meta }) => meta.name === "excercise"
+  );
+
+  $: cards = excerciseFolder.children;
+
+  console.log(excerciseFolder.children);
 
   metatags.title = "Koordinationsübungen";
   metatags.description =
@@ -12,24 +20,13 @@
 </h1>
 
 <div
-  class="w-full flex flex-col space-y-4 md:py-3 md:grid md:gap-2 md:grid-cols-2 lg:gap-3 xl:grid-cols-3"
+  class="w-full flex flex-col justify-center space-y-4 md:py-3 md:grid md:justify-items-center md:gap-2 md:grid-cols-2 lg:gap-3 xl:grid-cols-3"
 >
-  <Card title="Excercise" thumbnail="https://picsum.photos/1080/480"
-    >Some Test Content. Lorem ipsum dolor sit, amet consectetur adipisicing
-    elit. Incidunt neque eaque quis ea officiis mollitia voluptatum, quibusdam
-    praesentium necessitatibus saepe consectetur nostrum explicabo ipsa ullam
-    ducimus! Rerum quasi deserunt dolorum!</Card
-  >
-  <Card title="Excercise 2" thumbnail="https://picsum.photos/1080/480"
-    >Some Test Content. Lorem ipsum dolor sit, amet consectetur adipisicing
-    elit. Incidunt neque eaque quis ea officiis mollitia voluptatum, quibusdam
-    praesentium necessitatibus saepe consectetur nostrum explicabo ipsa ullam
-    ducimus! Rerum quasi deserunt dolorum!</Card
-  >
-  <Card title="Another Excercise" thumbnail="https://picsum.photos/1080/480"
-    >Some Test Content. Lorem ipsum dolor sit, amet consectetur adipisicing
-    elit. Incidunt neque eaque quis ea officiis mollitia voluptatum, quibusdam
-    praesentium necessitatibus saepe consectetur nostrum explicabo ipsa ullam
-    ducimus! Rerum quasi deserunt dolorum!</Card
-  >
+  {#each cards as card}
+    <Card
+      title={card.meta.frontmatter.title}
+      thumbnail={card.meta.frontmatter.thumbnail}
+      path={card.path}>Here should be the card content 🤔</Card
+    >
+  {/each}
 </div>

@@ -58,6 +58,7 @@ export default {
   plugins: [
     alias({ entries: [{ find: "@", replacement: "./src" }] }),
     svelte({
+      extensions: [".svelte", ".md", ".svx"],
       dev: !production, // run-time checks
       // Extract component CSS — better performance
       css: (css) => css.write(`bundle.css`),

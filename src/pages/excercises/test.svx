@@ -1,0 +1,7 @@
+---
+title: "Test"
+thumbnail: "https://picsum.photos/1080/480"
+layout: Excercise
+---
+
+Lorem ipsum dolor sit amet, [...]
