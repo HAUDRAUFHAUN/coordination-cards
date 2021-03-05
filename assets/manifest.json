@@ -1,0 +1,8 @@
+{
+  "background_color": "#ffffff",
+  "theme_color": "#E938C2",
+  "name": "Karten für Koordinationsübungen",
+  "short_name": "Koordinationsübungen",
+  "start_url": "/",
+  "display": "standalone"
+}
