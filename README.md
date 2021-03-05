@@ -11,7 +11,7 @@ cd coordination-cards
 npm i
 ```
 
-1. Launch the project:
+2. Launch the project:
 ```bash
 npm run dev:ssr
 ```
