@@ -25,8 +25,9 @@
   {#each cards as card}
     <Card
       title={card.meta.frontmatter.title}
+      content={card.meta.frontmatter.preview}
       thumbnail={card.meta.frontmatter.thumbnail}
-      path={card.path}>Here should be the card content 🤔</Card
-    >
+      path={card.path}
+    />
   {/each}
 </div>
