@@ -1,6 +1,6 @@
 ---
 title: "Fallstab"
-thumbnail: "https://picsum.photos/1080/480"
+thumbnail: "/images/IMG_5508.jpg"
 layout: Excercise
 preview: "<b>Material:</b><ul><li>Stab (Ast, Kochlöffel etc.)</li><li>Partner</li></ul><br/><b>Durchführung:</b><p>Der eine Partner hält einen langen Runden Gegenstand in die Höhe und lässt unvermittelt los. </p><p>Der andere muss versuchen den Gegenstand so schnell wie möglich zu fangen. Als Erweiterung kann der Partner der den Stab hält dem anderen auch noch ansagen mit welcher Hand er den Stab fangen muss.</p>"
 ---
