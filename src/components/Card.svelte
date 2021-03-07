@@ -31,7 +31,7 @@
           </a>
         </h1>
       </header>
-      <div class="px-4 md:px-4 pb-3 md:pb-4">
+      <div class="px-4 md:px-4 pb-3 md:pb-4 prose">
         {@html content}
       </div>
     </div>
