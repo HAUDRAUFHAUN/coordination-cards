@@ -2,7 +2,7 @@
 title: "Test"
 thumbnail: "https://picsum.photos/1080/480"
 layout: Excercise
-preview: "<i>Lorem</i> ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipisicing elit Mollitia laudantium dolor voluptate culpa labore, perspiciatis assumenda rerum cupiditate eaque laborum sequi, numquam alias ad earum iusto tenetur! Perspiciatis, nisi aliquam."
+preview: "<i>Lorem ccc</i> ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipisicing elit Mollitia laudantium dolor voluptate culpa labore, perspiciatis assumenda rerum cupiditate eaque laborum sequi, numquam alias ad earum iusto tenetur! Perspiciatis, nisi aliquam."
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia laudantium dolor
