@@ -4,7 +4,7 @@
 </script>
 
 <div class="mb-2 md:mb-4 2xl:mb-6" id="goback">
-  <a href={$url("../")} class=" text-3xl text-blue-500 antialiased">
+  <a href={$url("../")} class=" text-3xl text-gray-900">
     <div class="flex  flex-row">
       <svg
         xmlns="http://www.w3.org/2000/svg"
