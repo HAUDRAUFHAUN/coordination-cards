@@ -5,8 +5,9 @@
 </script>
 
 <div class="flex flex-col justify-center overflow-hidden">
-  <img src={$url(thumbnail)} alt={title + " Thumbnail"} class="h-1/4 w-auto" />
-
+  <div class="flex justify-center items-center">
+  <img src={$url(thumbnail)} alt={title + " Thumbnail"} class="h-auto w-3/5" />
+</div>
   <h1 class="text-xl md:text-2xl lg:text-4xl mt-10 mb-6 pb-2">
     {title}
   </h1>
