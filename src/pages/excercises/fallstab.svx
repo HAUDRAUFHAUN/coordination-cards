@@ -4,18 +4,28 @@ category: "Reaktionsfähigkeit"
 color: "yellow-200"
 thumbnail: "/images/IMG_5508.JPG"
 layout: Excercise
-preview: "<b>Material:</b><ul><li>Stab (Ast, Kochlöffel etc.)</li><li>Partner</li></ul><br/><b>Durchführung:</b><p>Der eine Partner hält einen langen Runden Gegenstand in die Höhe und lässt unvermittelt los. </p><p>Der andere muss versuchen den Gegenstand so schnell wie möglich zu fangen. Als Erweiterung kann der Partner der den Stab hält dem anderen auch noch ansagen mit welcher Hand er den Stab fangen muss.</p>"
----
-
-<b>Material:</b><br/>
-
+preview: "
+<b>Material:</b>
 <ul>
 <li>Stab (Ast, Kochlöffel etc.)</li>
-<li>Partner</li>
-</ul>
-<br/>
-<b>Durchführung:</b><br/>
-<p>
-Der eine Partner hält einen langen Runden Gegenstand in die Höhe und lässt unvermittelt los. </p><p>
-Der andere muss versuchen den Gegenstand so schnell wie möglich zu fangen. Als Erweiterung kann der Partner der den Stab hält dem anderen auch noch ansagen mit welcher Hand er den Stab fangen muss.
-</p>
+<li>Partner</li></ul>
+<br>
+<b>Durchführung:</b>
+<li>1. Der eine Partner hält den Stab in die höhe und lässt unvermittelt los</li>
+<li>2. Der andere Partner versucht den Stab so weit oben wie möglich zu fangen </li>
+<br> 
+<b>Erweiterungsmöglichkeiten:</b>
+<li>1. Der Partner der den Stab festhält kann auch noch die Hand vorgeben mit der der andere den Stab fangen muss</li>
+---
+
+<b>Material:</b>
+<ul>
+<li>Stab (Ast, Kochlöffel etc.)</li>
+<li>Partner</li></ul>
+<br>
+<b>Durchführung:</b>
+<li>1. Der eine Partner hält den Stab in die höhe und lässt unvermittelt los</li>
+<li>2. Der andere Partner versucht den Stab so weit oben wie möglich zu fangen </li>
+<br> 
+<b>Erweiterungsmöglichkeiten:</b>
+<li>1. Der Partner der den Stab festhält kann auch noch die Hand vorgeben mit der der andere den Stab fangen muss</li>
