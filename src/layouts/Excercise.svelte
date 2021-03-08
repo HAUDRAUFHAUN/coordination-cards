@@ -5,11 +5,7 @@
 </script>
 
 <div class="flex flex-col justify-center overflow-hidden">
-  <img
-    src={$url(thumbnail)}
-    alt={title + " Thumbnail"}
-    class="w-5/7 md:w-4/7 lg:w-3/7 h-auto"
-  />
+  <img src={$url(thumbnail)} alt={title + " Thumbnail"} class="h-1/4 w-auto" />
 
   <h1 class="text-xl md:text-2xl lg:text-4xl mt-10 mb-6 pb-2">
     {title}
