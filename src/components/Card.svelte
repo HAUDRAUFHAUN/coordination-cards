@@ -46,9 +46,5 @@
     #card {
       page-break-inside: avoid;
     }
-
-    #content {
-      @apply p-0;
-    }
   }
 </style>
