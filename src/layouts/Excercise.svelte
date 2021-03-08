@@ -16,8 +16,20 @@
   </h1>
 
   <div
-    class="prose md:prose-lg lg:prose-xl max-w-xs sm:max-w-md md:max-w-3xl lg:max-w-5xl"
+    class="prose md:prose-lg lg:prose-xl max-w-5/7 sm:max-w-md md:max-w-3xl lg:max-w-5xl"
+    id="content"
   >
     <slot />
   </div>
 </div>
+
+<style>
+  @media print {
+    @page {
+      margin: 0.5cm;
+    }
+    #content {
+      width: 100%;
+    }
+  }
+</style>
