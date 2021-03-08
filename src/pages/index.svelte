@@ -18,7 +18,7 @@
 </h1>
 
 <div
-  class="w-full flex flex-col justify-center space-y-4 md:space-y-0 md:py-3 md:grid md:auto-rows-min md:place-content-stretch md:gap-2 md:grid-cols-2 lg:gap-3 xl:grid-cols-3"
+  class="w-full flex flex-col justify-center space-y-4 md:space-y-0 md:py-3 md:grid md:auto-rows-min md:place-content-stretch md:gap-2 md:grid-cols-2 lg:gap-3 xl:grid-cols-3 2xl:grid-cols-4 2xl:gap-4"
 >
   {#each cards as card}
     <div id="card-wrapper">
