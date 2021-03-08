@@ -16,6 +16,7 @@ preview: "
 <br> 
 <b>Erweiterungsmöglichkeiten:</b>
 <li>1. Der Partner der den Stab festhält kann auch noch die Hand vorgeben mit der der andere den Stab fangen muss</li>
+"
 ---
 
 <b>Material:</b>
