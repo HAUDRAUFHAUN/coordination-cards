@@ -2,6 +2,8 @@
   import { url } from "@roxi/routify";
   export let title,
     content,
+    category,
+    color,
     thumbnail,
     path = "";
 </script>
@@ -25,6 +27,9 @@
     {/if}
     <div class="col-span-3 row-span-2">
       <header class="flex flex-col justify-between leading-tight p-2 md:p-4">
+        <span class="p-1 rounded-md bg-{color} text-sm w-min"
+          >{category}</span
+        >
         <h1 class="prose-lg lg:prose-xl">
           <a class="no-underline hover:underline text-black" href={path}>
             {title}

@@ -8,8 +8,6 @@
 
   $: cards = excerciseFolder.children;
 
-  console.log(excerciseFolder.children);
-
   metatags.title = "Koordinationsübungen";
   metatags.description =
     "Stationskarten für Fitnessübungen im Bereich der Koordination";
@@ -23,11 +21,27 @@
   class="w-full flex flex-col justify-center space-y-4 md:py-3 md:grid md:justify-items-center md:gap-2 md:grid-cols-2 lg:gap-3 xl:grid-cols-3"
 >
   {#each cards as card}
-    <Card
-      title={card.meta.frontmatter.title}
-      content={card.meta.frontmatter.preview}
-      thumbnail={card.meta.frontmatter.thumbnail}
-      path={card.path}
-    />
+    <div id="card-wrapper">
+      <Card
+        title={card.meta.frontmatter.title}
+        category={card.meta.frontmatter.category}
+        color={card.meta.frontmatter.color}
+        content={card.meta.frontmatter.preview}
+        thumbnail={card.meta.frontmatter.thumbnail}
+        path={card.path}
+      />
+    </div>
   {/each}
 </div>
+
+<style>
+  @media print {
+    @page {
+      margin: 0.5cm;
+    }
+
+    #card-wrapper {
+      page-break-inside: avoid;
+    }
+  }
+</style>

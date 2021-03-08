@@ -1,0 +1,25 @@
+---
+title: "Seilspringen"
+category: "Kopplungsfähigkeit"
+color: "blue-200"
+thumbnail: "/images/IMG_5496.JPG"
+layout: Excercise
+preview: "<b>Material:</b><br/><ul><li>Sprungseil</li></ul><br/><b>Erweiterungsmöglichkeiten:</b><br/><ul><li>Laufen mit Seil ➡️ Seillaufen</li><li>Geschwindigkeit des Seiles erhöhen</li><li>Zwischen den Schwungphasen mehrere Absprünge absolvieren</li></ul>"
+---
+
+<b>Material:</b><br/>
+
+<ul>
+<li>Sprungseil</li>
+</ul>
+
+<br/>
+
+<b>Erweiterungsmöglichkeiten:</b>
+<br/>
+
+<ul>
+<li>Laufen mit Seil ➡️ Seillaufen</li>
+<li>Geschwindigkeit des Seiles erhöhen</li>
+<li>Zwischen den Schwungphasen mehrere Absprünge absolvieren</li>
+</ul>
