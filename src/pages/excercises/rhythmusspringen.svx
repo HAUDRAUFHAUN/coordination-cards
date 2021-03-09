@@ -1,0 +1,22 @@
+---
+title: "Rhythmusspringen"
+category: "Rhythmusfähigkeit"
+color: "red-200"
+thumbnail: "https://picsum.photos/1080/480"
+layout: Excercise
+preview: "<b>Material:</b><br/><ul><li>Springseil</li></ul><br/><b>Durchführung:</b><br/><p>Verschiedene sprungarten in einem vorgegebenen Rhythmus</p><small><i>Beispiel:</i> 3x mit Zwischensprung, danach 2x ohne</small>"
+---
+
+<b>Material:</b><br/>
+
+<ul>
+<li>Springseil</li>
+</ul>
+
+<br/>
+
+<b>Durchführung:</b>
+<br/>
+
+<p>Verschiedene sprungarten in einem vorgegebenen Rhythmus</p>
+<small><i>Beispiel:</i> 3x mit Zwischensprung, danach 2x ohne</small>
