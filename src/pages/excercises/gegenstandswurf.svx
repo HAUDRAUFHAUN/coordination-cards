@@ -2,9 +2,9 @@
 title: "Gegenstandswurf"
 category: "Umstellungsfähigkeit"
 color: "indigo-200"
-thumbnail: "https://picsum.photos/1080/480"
+thumbnail: "/images/gegenstandswurf.jpeg"
 layout: Excercise
-preview: "<b>Material:</b><ul><li>2 beliebige Gegenstände (z.B. Ball)</li></ul><br><b>Durchführung:</b><ol><li>Jeweils einen Gegenstand in einer Hand halten</li><li>Beide Gegenstände gleichzeitig hochwerfen und fangen</li></ol><br /><b>Erweiterungsmöglichkeiten:</b><ul><li>Gegenstände über kreuz werfen bzw. fangen</li><li>mehr als zwei Gegenstände verwenden</li><li>beide Erweiterungsmöglichkeiten kombiniert ➡️  jonglieren🤹</li></ul>"
+preview: "<b>Material:</b><ul><li>2 beliebige Gegenstände (z.B. Ball)</li></ul><br><b>Durchführung:</b><ol><li>Jeweils einen Gegenstand in einer Hand halten</li><li>Beide Gegenstände gleichzeitig hochwerfen und fangen</li></ol><br /><b>Erweiterungsmöglichkeiten:</b><ul><li>Gegenstände über kreuz werfen bzw. fangen</li><li>mehr als zwei Gegenstände verwenden</li><li>beide Erweiterungsmöglichkeiten kombiniert ➡️     jonglieren🤹</li></ul>"
 ---
 
 <b>Material:</b>
@@ -25,5 +25,5 @@ preview: "<b>Material:</b><ul><li>2 beliebige Gegenstände (z.B. Ball)</li></ul>
 <ul>
 <li>Gegenstände über kreuz werfen bzw. fangen</li>
 <li>mehr als zwei Gegenstände verwenden</li>
-<li>beide Erweiterungsmöglichkeiten kombiniert ➡️  jonglieren🤹</li>
+<li>beide Erweiterungsmöglichkeiten kombiniert ➡️   jonglieren🤹</li>
 </ul>
