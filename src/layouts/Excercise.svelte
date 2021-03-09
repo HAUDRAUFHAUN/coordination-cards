@@ -11,7 +11,7 @@
     <img
       src={$url(thumbnail)}
       alt={title + " Thumbnail"}
-      class="h-auto w-full md:w-3/5"
+      class="lazyload h-auto w-full md:w-3/5"
     />
   </div>
   

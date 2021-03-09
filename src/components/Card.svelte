@@ -18,7 +18,7 @@
           <img
             src={$url(thumbnail)}
             alt="Thumbnail"
-            class="rounded-t-xl h-auto w-full"
+            class="lazyload rounded-t-xl h-auto w-full"
           />
         </a>
       </div>
