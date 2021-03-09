@@ -18,5 +18,5 @@ preview: "<b>Material:</b><br/><ul><li>Springseil</li></ul><br/><b>Durchführung
 <b>Durchführung:</b>
 <br/>
 
-<p>Verschiedene sprungarten in einem vorgegebenen Rhythmus</p>
+<p>Verschiedene Sprungarten in einem vorgegebenen Rhythmus</p>
 <small><i>Beispiel:</i> 3x mit Zwischensprung, danach 2x ohne</small>
