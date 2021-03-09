@@ -1,0 +1,22 @@
+---
+title: "Weg zum Anfang"
+category: "Orientierungsfähigkeit"
+color: "purple-200"
+thumbnail: "https://picsum.photos/1080/480"
+layout: Excercise
+preview: "<b>Material:</b><ul><li>je nach Bedarf</li></ul><br/><b>Ausführung:</b><p>Man schließt die Augen und führt eine Reihe Bewegungen, zu einer gewählten Sportart (z.B. bei Kampfsport ➡️  Schläge🥊) in verschiedene Richtungen aus.Das Ziel ist es, am Ende auf der Ausgangsposition zu enden.</p>"
+---
+
+<b>Material:</b>
+
+<ul>
+<li>je nach Bedarf</li>
+</ul>
+
+<br/>
+
+<b>Ausführung:</b>
+
+<p>Man schließt die Augen und führt eine Reihe Bewegungen, zu einer gewählten Sportart (z.B. bei Kampfsport ➡️  Schläge🥊) in verschiedene Richtungen aus.
+Das Ziel ist es, sich am Ende auf der Ausgangsposition zu befinden.
+</p>
