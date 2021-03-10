@@ -4,19 +4,19 @@ category: "Differenzierungsfähigkeit"
 color: "green-200"
 thumbnail: "https://picsum.photos/1080/480"
 layout: Excercise
-preview: "<b>Material:</b><ul><li>Ball</li></ul><br /><b>Durchführung:</b><ol><li>Im Ausfallschritt - linker Fuß ist vorn - etwa eineinhalb Meter vor eine Wand stellen. Vor der rechten Schulter mit beiden Händen einen Medizinball halten.</li><li>Den Ball mit voller Kraft nach vorn gegen die Wand stoßen. Dabei den rechten Arm durchstrecken und den Rumpf nach links drehen. Wenn möglich, den Ball wieder auffangen. Im nächsten Satz die Seite wechseln.</li></ol>"
+preview: "<b>Material:</b><ul><li>(Medizin)Ball</li></ul><br /><b>Durchführung:</b><ol><li>Im Ausfallschritt - linker Fuß ist vorn - etwa eineinhalb Meter vor eine Wand stellen. Vor der rechten Schulter mit beiden Händen einen (Medizin)Ball halten.</li><li>Den Ball mit voller Kraft nach vorn gegen die Wand stoßen. Dabei den rechten Arm durchstrecken und den Rumpf nach links drehen. Wenn möglich, den Ball wieder auffangen. Im nächsten Satz die Seite wechseln.</li></ol>"
 ---
 
 <b>Material:</b>
 
 <ul>
-<li>Ball</li>
+<li>(Medizin)Ball</li>
 </ul>
 <br />
 
 <b>Durchführung:</b>
 
 <ol>
-<li>Im Ausfallschritt - linker Fuß ist vorn - etwa eineinhalb Meter vor eine Wand stellen. Vor der rechten Schulter mit beiden Händen einen Medizinball halten.</li>
+<li>Im Ausfallschritt - linker Fuß ist vorn - etwa eineinhalb Meter vor eine Wand stellen. Vor der rechten Schulter mit beiden Händen einen (Medizin)Ball halten.</li>
 <li>Den Ball mit voller Kraft nach vorn gegen die Wand stoßen. Dabei den rechten Arm durchstrecken und den Rumpf nach links drehen. Wenn möglich, den Ball wieder auffangen. Im nächsten Satz die Seite wechseln.</li>
 </ol>
