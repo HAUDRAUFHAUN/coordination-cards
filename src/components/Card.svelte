@@ -31,7 +31,11 @@
           >{category}</span
         >
         <h1 class="prose-lg lg:prose-xl">
-          <a class="no-underline hover:underline text-black" href={path}>
+          <a
+            class="no-underline hover:underline text-black"
+            href={path}
+            rel="prefetch"
+          >
             {title}
           </a>
         </h1>

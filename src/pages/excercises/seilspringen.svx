@@ -2,7 +2,7 @@
 title: "Seilspringen"
 category: "Kopplungsfähigkeit"
 color: "blue-200"
-thumbnail: "/images/seilspringen.JPG"
+thumbnail: "/images/seilspringen.jpeg"
 layout: Excercise
 preview: "<b>Material:</b><br/><ul><li>Sprungseil</li></ul><br/><b>Erweiterungsmöglichkeiten:</b><br/><ul><li>Laufen mit Seil ➡️ Seillaufen</li><li>Geschwindigkeit des Seiles erhöhen</li><li>Zwischen den Schwungphasen mehrere Absprünge absolvieren</li></ul>"
 ---

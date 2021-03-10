@@ -12,15 +12,16 @@
       src={$url(thumbnail)}
       alt={title + " Thumbnail"}
       class="lazyload h-auto w-full md:w-3/5"
+      id="thumbnail"
     />
   </div>
-  
+
   <h1 class="text-xl md:text-2xl lg:text-4xl mt-10 md:mb-2 pb-2">
     {title}
   </h1>
 
   <div class="text-gray-700 text-base md:text-lg lg:text-xl mb-8 pl-6">
-    Kategorie: <span class="text-black bg-{color} p-1 rounded-md"
+    Kategorie: <span class="text-black bg-{color} p-1 rounded-md" id="tag"
       >{category}</span
     >
   </div>
@@ -40,6 +41,13 @@
     }
     #content {
       width: 100%;
+    }
+    #tag {
+      -webkit-print-color-adjust: exact !important;
+    }
+    #thumbnail {
+      width: 60%;
+      height: auto;
     }
   }
 </style>
