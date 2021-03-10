@@ -41,6 +41,7 @@
     }
     #content {
       width: 100%;
+      -webkit-print-color-adjust: exact !important;
     }
     #tag {
       -webkit-print-color-adjust: exact !important;
