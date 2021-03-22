@@ -6,7 +6,7 @@
     thumbnail = "";
 </script>
 
-<div class="flex flex-col justify-center overflow-hidden">
+<div class="flex flex-col justify-center overflow-x-hidden max-w-full">
   <div class="flex justify-center items-center">
     <img
       src={$url(thumbnail)}

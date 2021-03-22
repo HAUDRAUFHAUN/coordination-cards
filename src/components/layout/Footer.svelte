@@ -6,7 +6,10 @@
 
 <br />
 
-<footer class="flex flex-row justify-center items-center py-2" id="footer">
+<footer
+  class="flex flex-row justify-center items-center py-2 w-screen overflow-y-visible overflow-x-hidden"
+  id="footer"
+>
   <p>&copy; {year} || <a href="/legal" class="underline">Imprint</a></p>
 </footer>
 
